@@ -17,8 +17,7 @@
 
 
 # **Program Requirements**
-### python program needs to be installed on the system, works on Operating System MacOS, Windows, Linux. [Click here](https://www.python.org/downloads/)
-### snscrape requires Python 3.8 or higher. The Python package dependencies are installed automatically when you install snscrape.
-### MongoDb should be installed on the system. [Click here](https://www.mongodb.com/try/download/community)
-### 
+### _python program needs to be installed on the system, works on Operating System MacOS, Windows, Linux. [Click here](https://www.python.org/downloads/)_
+### _snscrape requires Python 3.8 or higher. The Python package dependencies are installed automatically when you install snscrape._
+### _MongoDb should be installed on the system. [Click here](https://www.mongodb.com/try/download/community)_
 ---
